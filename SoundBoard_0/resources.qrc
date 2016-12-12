@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>ohhh- wonderful by travis scott.m4a</file>
+        <file>b-help.mp3</file>
+        <file>a-imdone.mp3</file>
+        <file>t-disastah.mp3</file>
+        <file>sing-haha.mp3</file>
+        <file>p-vamonos.mp3</file>
+        <file>p-relpme.mp3</file>
+        <file>p-mellamo.mp3</file>
+        <file>n-worthit.mp3</file>
+        <file>n-retard.mp3</file>
+        <file>n-idinahui.mp3</file>
+        <file>n-everything.mp3</file>
+        <file>mo-level.mp3</file>
+        <file>ld-ding.mp3</file>
+        <file>ld-alldead.mp3</file>
+        <file>ld-wow.mp3</file>
+        <file>ku-gman.mp3</file>
+        <file>e-rightnow.mp3</file>
+        <file>e-lose.mp3</file>
+        <file>e-doit.mp3</file>
+        <file>e-back.mp3</file>
+        <file>b-toptoptoptop.mp3</file>
+        <file>b-omg.mp3</file>
+        <file>b-mamma.mp3</file>
+        <file>b-laugh.mp3</file>
+        <file>b-blbbllb.mp3</file>
+        <file>b-aaaah.mp3</file>
+        <file>a-ohshitson.mp3</file>
+        <file>a-holyfucksakes.mp3</file>
+        <file>a-game.mp3</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>Info.plist</file>
+    </qresource>
+</RCC>
